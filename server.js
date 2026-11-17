@@ -1,1 +1,1 @@
-'use strict'; require('./server(6).js');
+'use strict'; require('./server (6).js');
